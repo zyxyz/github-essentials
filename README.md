@@ -1,2 +1,2 @@
 # github-essentials
-following the book
+studying the use of github
